@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationRESTApi", "We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationRESTApi.Tests", "WebApplicationRESTApi.Tests\WebApplicationRESTApi.Tests.csproj", "{036DA57F-2884-48E8-81BD-6D254FF29302}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppRESTApi2", "src\services\CommitAPI\WebAppRESTApi2\WebAppRESTApi2.csproj", "{6178C8BD-D891-4CA8-BEA1-1A6AE3115B65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{036DA57F-2884-48E8-81BD-6D254FF29302}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{036DA57F-2884-48E8-81BD-6D254FF29302}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{036DA57F-2884-48E8-81BD-6D254FF29302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6178C8BD-D891-4CA8-BEA1-1A6AE3115B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6178C8BD-D891-4CA8-BEA1-1A6AE3115B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6178C8BD-D891-4CA8-BEA1-1A6AE3115B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6178C8BD-D891-4CA8-BEA1-1A6AE3115B65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
