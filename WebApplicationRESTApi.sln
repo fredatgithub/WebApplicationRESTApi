@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationRESTApi.Tests
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppRESTApi2", "src\services\CommitAPI\WebAppRESTApi2\WebAppRESTApi2.csproj", "{6178C8BD-D891-4CA8-BEA1-1A6AE3115B65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppRESTApi2.UnitTests", "src\services\CommitAPI.Tests\WebAppRESTApi2.UnitTests\WebAppRESTApi2.UnitTests.csproj", "{B580459F-B060-45F9-945E-25110A66F6DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6178C8BD-D891-4CA8-BEA1-1A6AE3115B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6178C8BD-D891-4CA8-BEA1-1A6AE3115B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6178C8BD-D891-4CA8-BEA1-1A6AE3115B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B580459F-B060-45F9-945E-25110A66F6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B580459F-B060-45F9-945E-25110A66F6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B580459F-B060-45F9-945E-25110A66F6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B580459F-B060-45F9-945E-25110A66F6DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
