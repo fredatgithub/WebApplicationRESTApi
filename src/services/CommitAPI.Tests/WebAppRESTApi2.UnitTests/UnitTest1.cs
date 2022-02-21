@@ -10,5 +10,12 @@ namespace WebAppRESTApi2.UnitTests
     {
       Assert.IsTrue(true);
     }
+
+    [TestMethod]
+    public void TestMethod2()
+    {
+      // unit test created on dev-front branch
+      Assert.IsFalse(false);
+    }
   }
 }
